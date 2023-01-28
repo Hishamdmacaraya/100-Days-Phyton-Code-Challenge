@@ -1,4 +1,4 @@
-# 100 Days of Phyton Code Challenge
+# 100 Days of Python Code Challenge
 Python coding projects as part of #100DaysOfCode challenge
 
 ## What Is The #100DaysOfCode Challenge?
