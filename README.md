@@ -7,5 +7,5 @@ Python coding projects as part of #100DaysOfCode challenge
 ## Day 1: Username and Password Generator
 Made a simple username and password generator. The username generates a unique combination of first name, last name, and last 4 digits of social security number. The password generates a unique combination of name, date of birth, and a random 4-digit string. 
 
-##Restaurant Bill Calculator 
+## Restaurant Bill Calculator 
 For day 2 of my #100DaysOfCode challenge, I made a simple restaurant bill calculator that calculates total payment due, total tax due, and splits the bill for multiple payors.
