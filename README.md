@@ -13,5 +13,5 @@ For day 2 of my #100DaysOfCode challenge, I made a simple restaurant bill calcul
 ## Day 3: Simple BMI Calculator
 A simple python code that computes BMI.
 
-## Day 4: 
+## Day 4: BMI Calculator (US Version)
 I made an updated version of my simple BMI calculator for US audience. It also has the BMI table from the CDC.
