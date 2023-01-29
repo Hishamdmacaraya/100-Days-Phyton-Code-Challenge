@@ -10,5 +10,8 @@ Made a simple username and password generator. The username generates a unique c
 ## Day 2: Restaurant Bill Calculator 
 For day 2 of my #100DaysOfCode challenge, I made a simple restaurant bill calculator that calculates total payment due, total tax due, and splits the bill for multiple payors.
 
-## Day 3: Day 3: Simple BMI Calculator
+## Day 3: Simple BMI Calculator
 A simple python code that computes BMI.
+
+## Day 4: 
+I made an updated version of my simple BMI calculator for US audience. It also has the BMI table from the CDC.
