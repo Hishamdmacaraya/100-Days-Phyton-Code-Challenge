@@ -15,3 +15,6 @@ A simple python code that computes BMI.
 
 ## Day 4: BMI Calculator (US Version)
 I made an updated version of my simple BMI calculator for US audience. It also has the BMI table from the CDC.
+
+## Day 5: Grade Calculator
+Grade calculator for Outlier.org
