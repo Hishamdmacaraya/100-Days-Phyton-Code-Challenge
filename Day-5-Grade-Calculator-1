@@ -1,4 +1,4 @@
-print('Welcome to Grade Estimator for Outlier.org College Writting I')
+print('Welcome to Grade Estimator for Outlier.org Astronomy')
 print('Disclaimer: This is not an official version.')
 print()
 print('Instruction: Type your grade (%) in the promt. Type "0" if not yet graded.')
